@@ -11,3 +11,5 @@ Demo website can be visited [here](https://gamehub-bice-eight.vercel.app)
 Some techologies used in this project:
 
 - TanStack React Query to manage data fetching and caching
+- React router to handle navigation
+- State management with Zustand
